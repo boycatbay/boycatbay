@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineering, Cloud Technology, Site Reliablity Engineering and DevOps Pratices 
 - 🌱 I’m currently learning in Blockchain, Data Engineering and AI
 - 📫 Patiphan Pinkeaw - DevOps Engineer : IT One Co., Ltd. (Accenture Subsidiary)
-     - E-mail : patiphan_pinkeaw@outlook.com
+     - E-mail : patiphan.pinkeaw@outlook.com
      - LinkedIN: www.linkedin.com/in/patiphan-p
 
 <!---
